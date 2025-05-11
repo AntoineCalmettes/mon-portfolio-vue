@@ -2,6 +2,8 @@
 
 Bienvenue sur mon portfolio de développeur Full Stack, réalisé avec Vue.js et Vite.
 
+URL : https://mon-portfolio-awsz6m0nl-antoinecalmettes-projects.vercel.app
+
 ## 👨‍💻 À propos de moi
 
 Développeur passionné depuis 2019, je possède une solide expérience en développement web, principalement sur des stacks modernes :  
@@ -22,7 +24,6 @@ Ce portfolio présente :
 - [Vue.js 3](https://vuejs.org/)
 - [Vite](https://vitejs.dev/)
 - HTML5 / CSS3 (responsive)
-- Déploiement prévu sur [Vercel](https://vercel.com/) ou [Netlify](https://www.netlify.com/)
 
 ## 🌐 Me contacter
 
