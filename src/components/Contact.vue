@@ -42,7 +42,6 @@ function send() {
   max-width: 650px;
   margin: 2rem auto;
   padding: 2.5rem 2rem;
-  background: linear-gradient(135deg, #e8f6ef 0%, #f4f8fb 100%);
   border-radius: 16px;
   box-shadow: 0 8px 32px rgba(60,60,60,0.08);
   font-family: 'Segoe UI', 'Roboto', Arial, sans-serif;

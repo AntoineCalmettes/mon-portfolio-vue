@@ -122,13 +122,18 @@
 
 .dot {
   display: inline-block;
-  width: 9px;
-  height: 9px;
-  background: #42b983;
-  border-radius: 50%;
-  margin-right: 0.7rem;
-  margin-top: 2px;
+  vertical-align: middle;
 }
+
+/* Version mobile : point un peu plus gros pour la visibilité */
+@media (max-width: 600px) {
+  .dot {
+    width: 12px;
+    height: 12px;
+    margin-right: 1rem;
+  }
+}
+
 
 @media (max-width: 700px) {
   .about {
